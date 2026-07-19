@@ -119,7 +119,7 @@ streamlit run app.py
 
 # Author
 
-**Developed by:** Amara Kousar
+**Developed by:** Aneesa Nazakat
 
 ---
 
